@@ -1,0 +1,2 @@
+[20-Jul-2021 10:52:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u453384897/domains/cretmark.in/public_html/contact.php on line 705
+[25-Jul-2021 13:23:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u453384897/domains/cretmark.in/public_html/contact.php on line 705
