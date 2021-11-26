@@ -333,6 +333,11 @@
     -webkit-box-shadow: 0 0 0px 1000px #393c98 inset;
     transition: background-color 5000s ease-in-out 0s;
   }
+  @media only screen and (max-width: 400px) {
+  .ax-section-gap {
+    padding:  0px;
+}
+  }
 </style>
 <body onload="myFunction()">
 
@@ -442,7 +447,7 @@
     </div>
     <!-- End Popup Mobile Menu -->
     <!-- Start Breadcrumb Area -->
-    <div class="axil-breadcrumb-area breadcrumb-style-default pt--170 pb--70 theme-gradient">
+    <div class="axil-breadcrumb-area breadcrumb-style-default pt--170  theme-gradient">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">

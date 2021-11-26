@@ -420,7 +420,7 @@ margin-left: 0px;
               <div class="logo">
                 <a target="_blank" href="index.php">
                   <img id="logoimg" src="logo/New Logo Cretmark.svg" alt="">
-                  <img id="candedaimg"  src="./images/1200px-Flag_of_Canada.svg.png" alt=""> 
+                  <!-- <img id="candedaimg"  src="./images/1200px-Flag_of_Canada.svg.png" alt="">  -->
                 </a>
 
               </div>
