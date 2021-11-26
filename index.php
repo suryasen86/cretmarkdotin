@@ -1039,6 +1039,47 @@ color: #41447B;
 
 
 
+      <!-- Start Featured Area -->
+      <div class="axil-featured-area ax-section-gap bg-color-white">
+        <div class="container">
+          <!-- Start Single Feature  -->
+          <div class="row d-flex flex-wrap axil-featured row--40">
+            <div class="col-lg-6 col-xl-6 col-md-12 col-12">
+              <div class="thumb-inner">
+                <div class="thumbnail">
+                  <img class="image w-100" style="height: 60vh;" src="/img_cretmark/casestudy.svg"
+                    alt="Featured Images">
+                </div>
+
+              </div>
+            </div>
+            <div class="col-lg-6 col-xl-6 col-md-12 col-12 mt_md--40 mt_sm--40">
+              <div class="inner">
+                <div class="section-title text-left">
+                  <!-- <span class="sub-title extra04-color wow">featured </span> -->
+                  <h2 class="title wow" style="color:#B72851">case study</h2>
+                  <p class="subtitle-2 wow">Mirei, a wanderlust wanted to share her travel experiences with
+                    the world and CretMark stepped in to make her dream come true. We were able to create a
+                    website for Mirei, where she could document and communicate her adventure and travel
+                    experiences to the audience globally without any barriers whatsoever. </p>
+
+                  <p class="subtitle-2 wow">A colorful website, that suited her style and personality was
+                    customized for Mirei, by CretMark and that scaled her travel blogging tremendously.
+                    Today, she is a successful blogger with massive traction on her website and a huge
+                    following on social media platforms.
+
+                  </p>
+                </div>
+                <div class="axil-counterup-area d-flex flex-wrap separator-line-vertical">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- End Single Feature  -->
+        </div>
+      </div>
+      <!-- End Featured Area -->
 
 
 
