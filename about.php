@@ -362,23 +362,7 @@
                 </ul>
                 <p>As a Client Partner for the USA region, Anwesh is responsible for ensuring that service level agreements are met. He makes sure that quality and performance standards are being achieved on time and as per the budget requirements. He is also responsible to manage day-to-day operations and communications with partners and internal departments to ensure smooth project delivery.</p>
               </div> -->
-            <div class="team_member">
-              <div class="team_img">
-                <img class="team-img-pic" src="team/meetnew.svg" alt="Team_image">
-              </div>
-              <h3>Mith </h3>
-              <p class="role"> Digital marketing Expert</p>
-              <ul class="social-icons">
-                <a target="_blank" href="https://www.linkedin.com/in/meet-dhamecha-82a261172"> <img
-                    style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
-
-              </ul>
-              <p>As a business partner, Mith has been a great contributor to the business. His aim to always thrive for
-                better opportunities for business as well as for our clients. He is an efficient leader and believes in
-                aligning professional and personal lining to achieve success. He quotes "Learn the language of
-                enthusiasm, for accomplishing things with love and purpose, and as a part of a search for something
-                believed in and desired".</p>
-            </div>
+          
 
             <div class="team_member">
               <div class="team_img">
@@ -393,22 +377,7 @@
               </ul>
               <p>Tejas Kumar is Social media expert and is extremely passionate about his creative work, He has excellent knowledge in the field of social media and digital ad filmmaking. He is a hard worker with great interpersonal and storyteller skills. He is currently pursuing his Ad film making and production.</p>
             </div>
-            <div class="team_member">
-              <div class="team_img">
-                <img class="team-img-pic" src="team/nagmanew.svg" alt="Team_image">
-              </div>
-              <h3>Nagma </h3>
-              <p class="role"> SEO Analyst </p>
-              <ul class="social-icons">
-                <a target="_blank" href="http://linkedin.com/in/nagmaghare18"> <img style="width: 48px; height:48px ;"
-                    id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
-
-              </ul>
-              <p>She is a BTech graduate in the electronics and telecommunications field. She has done courses on
-                digital marketing, Google analytics, and SEO. Her primary skills are Instagram marketing, client
-                servicing, and search engine optimizing. She is an expert at identifying gaps in website content and is
-                highly proficient in SQL database, Python, and MS office </p>
-            </div>
+            
             <div class="team_member">
               <div class="team_img">
                 <img class="team-img-pic" src="team/manishnew.svg" alt="Team_image">
@@ -473,19 +442,7 @@
                 Strong engineering expert with a Bachelor of Science - BS focused in Information Technology</p>
             </div>
             
-            <div class="team_member">
-              <div class="team_img">
-                <img class="team-img-pic" src="team/diana.svg" alt="Team_image">
-              </div>
-              <h3>Daina</h3>
-              <p class="role">Business Development Analyst</p>
-              <ul class="social-icons">
-                <a target="_blank" href="https://www.linkedin.com/in/daina-barman-059623185"> <img
-                    style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
-
-              </ul>
-              <p>Daina is a B.Tech student in Bioengineering and technology field. With her strong communication and multi-tasking skills, she is working to be a great contributor to the corporate world. She is passionate about accomplishing things & achieving results. She believes, "smart work in the digital world is the key to success".</p>
-            </div>
+        
             
             <div class="team_member">
               <div class="team_img">
