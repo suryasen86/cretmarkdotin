@@ -794,7 +794,7 @@ color: #41447B;
                                         <li><a target="_blank" href="index.php" id="a-tag-nav-menu"> <b> Home</b></a></li>
                                         <li><a target="_blank" href="service.php" id="a-tag-nav-menu"><b> Services</b> </a></li>
                                         <li><a target="_blank" href="client.php" id="a-tag-nav-menu"> <b> Clients</b></a></li>
-                                        <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> Agency</b> </a></li>
+                                        <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> About Us</b> </a></li>
                                         <!-- <li><a target="_blank" href="career.php" id="a-tag-nav-menu"> <b> Careers</b> </a></li> -->
                                         <li><a target="_blank" href="blog-list-two.php" id="a-tag-nav-menu"><b> Blogs</b> </a></li>
                                
@@ -853,7 +853,7 @@ color: #41447B;
                         <li><a target="_blank" href="service.php">Services</a></li>
                         <li class="has-dropdown"><a target="_blank" href="client.php">Clients</a>
                         </li>
-                        <li><a target="_blank" href="about.php">Agency</a></li>
+                        <li><a target="_blank" href="about.php">About Us</a></li>
                         <!-- <li class="has-dropdown"><a target="_blank" href="career.php">Careers </a>
 
                         </li> -->
@@ -1295,7 +1295,7 @@ color: #41447B;
                                 <h2 class="title wow" style="text-transform: none; color: #ffffff;  border-left-color: #B72851;" data-splitting>What makes us special?</h2>
                                 <p class="subtitle-2 wow pr--0" style="color: #ffffff;" data-splitting>We are your go to partners for everything that your business needs for digital success.</p>
                                 <div class="view-all-portfolio-button mt--40">
-                                    <a class="axil-button btn-large " id="gfg" onmouseover="mouseover()" onmouseout="mouseout()" target="_blank" href="/about.php"><span class="button-text">Agency</span><span class="button-icon"></span></a>
+                                    <a class="axil-button btn-large " id="gfg" onmouseover="mouseover()" onmouseout="mouseout()" target="_blank" href="/about.php"><span class="button-text">About Us</span><span class="button-icon"></span></a>
                                 </div>
                             </div>
                         </div>

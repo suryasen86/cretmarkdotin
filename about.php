@@ -8,7 +8,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title> Succeed in your dream Venture with the aid of creative minds at CretMark</title>
   <link rel="canonical" href="https://cretmark.in/about.php" />
-  <meta name="description" content=" CretMark is a digital marketing agency with the expertise to deliver top-notch results for your business. We are dedicated to helping businesses thrive in this fast moving world.">
+  <meta name="description" content=" CretMark is a digital marketing About Us with the expertise to deliver top-notch results for your business. We are dedicated to helping businesses thrive in this fast moving world.">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv='cache-control' content='no-cache'>
   <meta http-equiv='expires' content='0'>
@@ -153,7 +153,7 @@
                     <li><a target="_blank" href="service.php" id="a-tag-nav-menu"><b> Services</b> </a></li>
                     <li><a target="_blank" href="client.php" id="a-tag-nav-menu"> <b> Clients</b></a>
                     </li>
-                    <li><a target="_blank" href="about.php" id="activenav" id="a-tag-nav-menu"><b> Agency</b> </a></li>
+                    <li><a target="_blank" href="about.php" id="activenav" id="a-tag-nav-menu"><b> About Us</b> </a></li>
                     <!-- <li><a target="_blank" href="career.php" id="a-tag-nav-menu"> <b> Careers</b> </a></li> -->
 
 
@@ -214,7 +214,7 @@
             <li class="has-dropdown"><a target="_blank" href="client.php">Clients</a>
 
 </li>
-            <li><a target="_blank" href="about.php">Agency</a></li>
+            <li><a target="_blank" href="about.php">About Us</a></li>
             <li class="has-dropdown"><a target="_blank" href="career.php">Careers </a>
 
             </li>
@@ -245,7 +245,7 @@
             <div class="col-lg-7 order-2 order-lg-1 mt_md--30 mt_sm--30">
               <div class="inner">
                 <h1 class="title">One of the fastest <br> <span style="color: #B72851;"> growing
-                    agency</span></h1>
+                Agency</span></h1>
                 <p> </p>
               </div>
             </div>

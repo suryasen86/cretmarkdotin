@@ -51,7 +51,7 @@
                                     <ul class="mainmenu">
                                         <li><a target="_blank" target="_blank" href="index.php" id="a-tag-nav-menu"> <b> Home</b></a></li>
                                         <li><a target="_blank" target="_blank" href="service.php" id="a-tag-nav-menu"><b> Services</b> </a></li>
-                                        <li><a target="_blank" target="_blank" href="about.php" id="a-tag-nav-menu"><b> Agency</b> </a></li>
+                                        <li><a target="_blank" target="_blank" href="about.php" id="a-tag-nav-menu"><b> About Us</b> </a></li>
                                         <li><a target="_blank" target="_blank" href="career.php" id="a-tag-nav-menu"> <b> Careers</b> </a></li>
                                         <li><a id="activenav" target="_blank" target="_blank" href="blog-list-two.php" id="a-tag-nav-menu"><b> Blogs</b> </a></li>
                 
@@ -105,7 +105,7 @@
                     <ul class="mainmenu-item">
                         <li class="has-dropdown"><a target="_blank" target="_blank" href="index.php">Home</a>  </li>
                         <li><a target="_blank" target="_blank" href="service.php">Services</a></li>
-                        <li><a target="_blank" target="_blank" href="about.php">Agency</a></li>
+                        <li><a target="_blank" target="_blank" href="about.php">About Us</a></li>
                         <li class="has-dropdown"><a target="_blank" target="_blank" href="career.php">Careers </a>   </li>
                          <li class="has-dropdown"><a target="_blank" target="_blank" href="blog-list-two.php">Blogs</a> </li> 
                          <li><a target="_blank" target="_blank" href="contact.php">Contact</a></li>

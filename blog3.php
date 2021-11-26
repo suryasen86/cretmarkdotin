@@ -51,7 +51,7 @@
                                     <ul class="mainmenu">
                                         <li><a target="_blank" href="index.php" id="a-tag-nav-menu"> <b> Home</b></a></li>
                                         <li><a target="_blank" href="service.php" id="a-tag-nav-menu"><b> Services</b> </a></li>
-                                        <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> Agency</b> </a></li>
+                                        <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> About Us</b> </a></li>
                                         <!-- <li><a target="_blank" href="career.php" id="a-tag-nav-menu"> <b> Careers</b> </a></li> -->
                                         <li><a id="activenav" target="_blank" href="blog-list-two.php" id="a-tag-nav-menu"><b> Blogs</b> </a></li>
                                    
@@ -108,7 +108,7 @@
 
 </li>
 <li><a target="_blank" href="service.php">Services</a></li>
-<li><a target="_blank" href="about.php">Agency</a></li>
+<li><a target="_blank" href="about.php">About Us</a></li>
 <li class="has-dropdown"><a target="_blank" href="career.php">Careers </a>
 
 </li>
@@ -284,7 +284,7 @@
                             </div>        -->
                                
                                      
-                            <h3 class="mb--20"><a target="_blank" href="https://www.forbes.com/sites/forbesagencycouncil/2018/07/03/how-seo-and-content-marketing-work-together-to-fuel-your-online-success/?sh=60d1d07e16bf" target="_blank" rel="noopener noreferrer"> The relation between SEO and Content </a>
+                            <h3 class="mb--20"><a target="_blank" href="https://www.forbes.com/sites/forbesAbout Uscouncil/2018/07/03/how-seo-and-content-marketing-work-together-to-fuel-your-online-success/?sh=60d1d07e16bf" target="_blank" rel="noopener noreferrer"> The relation between SEO and Content </a>
 
                             </h3> 
                                

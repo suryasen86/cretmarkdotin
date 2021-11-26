@@ -434,7 +434,7 @@ margin-left: 0px;
                     <li><a target="_blank" href="service.php" id="a-tag-nav-menu"><b> Services</b> </a></li>
 
                     <li><a target="_blank" href="client.php" id="a-tag-nav-menu"> <b> Clients</b></a></li>
-                    <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> Agency</b> </a></li>
+                    <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> About Us</b> </a></li>
                     <!-- <li><a target="_blank" href="career.php" id="a-tag-nav-menu"> <b> Careers</b> </a></li> -->
 
                     <li><a target="_blank" href="blog-list-two.php" id="a-tag-nav-menu"><b> Blogs</b> </a></li>
@@ -491,7 +491,7 @@ margin-left: 0px;
             </li>
             <li><a target="_blank" href="service.php">Services</a></li>
             <li class="has-dropdown"><a target="_blank" href="client.php">Clients</a> </li>
-            <li><a target="_blank" href="about.php">Agency</a></li>
+            <li><a target="_blank" href="about.php">About Us</a></li>
             <!-- <li class="has-dropdown"><a target="_blank" href="career.php">Careers </a> -->
 
             </li>

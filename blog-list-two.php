@@ -58,7 +58,7 @@
                                     <li><a target="_blank" href="index.php" id="a-tag-nav-menu"> <b> Home</b></a></li>
                                     <li><a target="_blank" href="service.php" id="a-tag-nav-menu"><b> Services</b> </a></li>
                                     <li><a target="_blank" href="client.php" id="a-tag-nav-menu"> <b> Clients</b></a></li>
-                                    <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> Agency</b> </a></li>
+                                    <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> About Us</b> </a></li>
                                     <!-- <li><a target="_blank" href="career.php" id="a-tag-nav-menu"> <b> Careers</b> </a></li> -->
                                     <li><a id="activenav" target="_blank" href="blog-list-two.php" id="a-tag-nav-menu"><b> Blogs</b>
                                         </a></li>
@@ -122,7 +122,7 @@
                     <li class="has-dropdown"><a target="_blank" href="client.php">Clients</a>
 
                     </li>
-                    <li><a target="_blank" href="about.php">Agency</a></li>
+                    <li><a target="_blank" href="about.php">About Us</a></li>
                     <!-- <li class="has-dropdown"><a target="_blank" href="career.php">Careers </a>
 
                     </li> -->
@@ -379,7 +379,7 @@
                                     <h4 class="title mb--30">Categories</h4>
                                     <div class="inner">
                                         <ul class="category-list">
-                                            <li><a target="_blank" href="#">Agency news</a></li>
+                                            <li><a target="_blank" href="#">About Us news</a></li>
                                             <li><a target="_blank" href="#">Blog</a></li>
                                             <li><a target="_blank" href="#">Information technology</a></li>
                                             <li><a target="_blank" href="#">New ideas</a></li>

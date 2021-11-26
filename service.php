@@ -11,7 +11,7 @@
      -->
      <title> CretMark- A Thriving Digital Marketing expert at several Services </title>
      <link rel="canonical" href="https://cretmark.in/service.php" />
-    <meta name="description" content="CretMark is a full-service digital marketing agency. We offer web design, app development, SEO, PR, etc., services to help you get the word out about your brand.">
+    <meta name="description" content="CretMark is a full-service digital marketing About Us. We offer web design, app development, SEO, PR, etc., services to help you get the word out about your brand.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
     <meta http-equiv='cache-control' content='no-cache'>
@@ -71,7 +71,7 @@
                                     <li><a target="_blank" href="service.php" id="activenav" id="a-tag-nav-menu"><b> Services</b> </a></li>
                                     <li><a target="_blank" href="client.php" id="a-tag-nav-menu"> <b> Clients</b></a>
                                     </li>
-                                    <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> Agency</b> </a></li>
+                                    <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> About Us</b> </a></li>
                                     <!-- <li><a target="_blank" href="career.php" id="a-tag-nav-menu"  > <b> Careers</b> </a></li> -->
                     
 
@@ -133,7 +133,7 @@
                         <!-- <li class="has-dropdown"><a target="_blank" href="career.php">Careers </a> </li> -->
 
                         <!-- <li><a target="_blank" href="service.php">Services</a></li> -->
-                        <li><a target="_blank" href="about.php">Agency</a></li>
+                        <li><a target="_blank" href="about.php">About Us</a></li>
                         <li class="has-dropdown"><a target="_blank" href="blog-list-two.php">Blogs</a>
 
                         </li>

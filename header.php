@@ -18,7 +18,7 @@
                                 <ul class="mainmenu">
                                     <li><a href="index.php"  id="activenav" id="a-tag-nav-menu"> <b> Home</b></a>
                                     </li>
-                                    <li><a href="about.php" id="a-tag-nav-menu"><b> Agency</b> </a></li>
+                                    <li><a href="about.php" id="a-tag-nav-menu"><b> About Us</b> </a></li>
                                     <li><a href="career.php"  id="a-tag-nav-menu"   > <b> Careers</b> </a></li>
                                     <li><a href="service.php" id="a-tag-nav-menu"><b> Services</b> </a></li>
 
@@ -78,7 +78,7 @@
                         </li>
 
                         <li><a href="service.php">Services</a></li>
-                        <li><a href="about.php">Agency</a></li>
+                        <li><a href="about.php">About Us</a></li>
                         <li ><a href="blog-list-two.php">Insights</a>
 
                         </li>

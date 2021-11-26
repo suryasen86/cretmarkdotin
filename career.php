@@ -372,7 +372,7 @@
                     </li>
                     <li><a target="_blank" href="client.php" id="a-tag-nav-menu"> <b> Clients</b></a>
                     </li>
-                    <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> Agency</b> </a></li>
+                    <li><a target="_blank" href="about.php" id="a-tag-nav-menu"><b> About Us</b> </a></li>
                     <li><a target="_blank" href="career.php" id="activenav" id="a-tag-nav-menu"> <b> Careers</b>
                       </a></li>
 
@@ -436,7 +436,7 @@
             <li class="has-dropdown"><a target="_blank" href="client.php">Clients</a>
 
             </li>
-            <li><a target="_blank" href="about.php">Agency</a></li>
+            <li><a target="_blank" href="about.php">About Us</a></li>
             <li class="has-dropdown"><a target="_blank" href="career.php">Careers </a>
 
             </li>

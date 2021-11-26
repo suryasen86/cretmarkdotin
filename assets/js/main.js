@@ -1,6 +1,6 @@
 /*********************************************************************************
 
-	Template Name: Keystroke Creative Agency Bootstrap4 Html5 Template
+	Template Name: Keystroke Creative About Us Bootstrap4 Html5 Template
 	Note: This is main js.
 
 **********************************************************************************/
