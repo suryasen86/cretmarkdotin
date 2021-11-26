@@ -414,16 +414,16 @@
             </div> -->
             <div class="team_member">
               <div class="team_img">
-                <img class="team-img-pic" src="team/komal.svg" alt="Team_image">
+                <img class="team-img-pic" src="team/arpita.svg" alt="Team_image">
               </div>
-              <h3>Komal </h3>
-              <p class="role">Frontend  Developer</p>
+              <h3>Arpita</h3>
+              <p class="role">Graphic Designer</p>
               <ul class="social-icons">
-                <a target="_blank" href="https://www.linkedin.com/in/komal-menaria-3682901b7/"> <img
+                <a target="_blank" href="https://www.linkedin.com/in/arpita-sant-171a81167/"> <img
                     style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
 
               </ul>
-              <p>Komal is a front-end developer who specializes in website design. She is highly skilled in producing HTML, CSS, and JavaScript for websites and web applications. She is a certified front-end developer from Solo Learn, and she is highly experienced in creating responsive and interactive web pages. She is also an expert in writing well-designed, testable, efficient codes using the best software development practices.</p>
+              <p>Arpita  is an  graphic designer  and she pursuing her last year at Bachelor in Multimedia. Being a multimedia student, She  handle different aspects like designing, motion graphics, and video editing. She love traveling, photography, and sketching amazing sceneries. Overall you can find her  as a keen observer for aesthetics and details, with proper color scheme knowledge, good communication skills with various innovative ideas.</p>
             </div>
 
             <div class="team_member">
@@ -443,20 +443,20 @@
             </div>
             
         
-            
             <div class="team_member">
               <div class="team_img">
-                <img class="team-img-pic" src="team/arpita.svg" alt="Team_image">
+                <img class="team-img-pic" src="team/komal.svg" alt="Team_image">
               </div>
-              <h3>Arpita</h3>
-              <p class="role">Graphic Designer</p>
+              <h3>Komal </h3>
+              <p class="role">Frontend  Developer</p>
               <ul class="social-icons">
-                <a target="_blank" href="https://www.linkedin.com/in/arpita-sant-171a81167/"> <img
+                <a target="_blank" href="https://www.linkedin.com/in/komal-menaria-3682901b7/"> <img
                     style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
 
               </ul>
-              <p>Arpita  is an  graphic designer  and she pursuing her last year at Bachelor in Multimedia. Being a multimedia student, She  handle different aspects like designing, motion graphics, and video editing. She love traveling, photography, and sketching amazing sceneries. Overall you can find her  as a keen observer for aesthetics and details, with proper color scheme knowledge, good communication skills with various innovative ideas.</p>
+              <p>Komal is a front-end developer who specializes in website design. She is highly skilled in producing HTML, CSS, and JavaScript for websites and web applications. She is a certified front-end developer from Solo Learn, and she is highly experienced in creating responsive and interactive web pages. She is also an expert in writing well-designed, testable, efficient codes using the best software development practices.</p>
             </div>
+            
             
        
             <!-- <div class="team_member">
