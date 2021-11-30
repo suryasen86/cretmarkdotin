@@ -1038,10 +1038,12 @@ color: #41447B;
 
 
 
-
+ 
       <!-- Start Featured Area -->
       <div class="axil-featured-area ax-section-gap bg-color-white">
         <div class="container">
+        <h2 class="title wow" style="text-transform: none; color: #B72851;" data-splitting><span>Case Study</span>
+                                </h2>
           <!-- Start Single Feature  -->
           <div class="row d-flex flex-wrap axil-featured row--40">
             <div class="col-lg-6 col-xl-6 col-md-12 col-12">
@@ -1057,7 +1059,7 @@ color: #41447B;
               <div class="inner">
                 <div class="section-title text-left">
                   <!-- <span class="sub-title extra04-color wow">featured </span> -->
-                  <h2 class="title wow" style="color:#B72851">case study</h2>
+                  
                   <p class="subtitle-2 wow">Mirei, a wanderlust wanted to share her travel experiences with
                     the world and CretMark stepped in to make her dream come true. We were able to create a
                     website for Mirei, where she could document and communicate her adventure and travel
@@ -1080,6 +1082,7 @@ color: #41447B;
         </div>
       </div>
       <!-- End Featured Area -->
+
 
 
 
