@@ -36,6 +36,9 @@ select:-webkit-autofill:focus{
     </script>
   -->
   
+
+
+
   <!-- Start Call To Action -->
     <div class="axil-call-to-action-area shape-position ax-section-gap theme-gradient" id="bel">
                 <div class="container">
@@ -109,7 +112,7 @@ select:-webkit-autofill:focus{
 <br>  contact us NOW!</p>
                                     <p>Get 3 Free Marketing Tools</p>
                                     <div class="axil-newsletter">
-                                        <form style="padding: 0px;" style="z-index: 0;" class="newsletter-form" action="" autocomplete="off" method="POST">
+                                        <form style="padding: 0px;" style="z-index: 0;" class="newsletter-form" action=""  method="POST">
                                             <input  type="email" style="z-index: 0; color:#41447B ;  " name="subemail" id="subemail" placeholder="Email" required>
                                            <!-- <input id="submitemail" name="submitemail" type="submit">   -->
                                            <div class="form-group">

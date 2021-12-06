@@ -1036,6 +1036,14 @@ color: #41447B;
 
 
 
+  <!-- whatsapp logo -->
+  <div style="position: fixed;
+    bottom: 93px;
+    right: 27px;
+  " class="whatsapp-sticky-icon">
+  <a  target="_blank" href="https://api.whatsapp.com/send?phone=+13653003154&text=hello"> <img style="width: 48px; height: 48px;" src="logo/whatsapp-2 1.svg" /></a>
+  </div>
+  <!-- End whatsapp logo -->
 
 
  
