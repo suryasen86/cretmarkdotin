@@ -156,6 +156,16 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
     <header id="header" class="header">
         <div class="container">
             <div class="row">
+
+                <div class="col-lg-6">
+                    <div class="image-container">
+                        <img data-aos="fade-left" class="img-fluid newTwo" id="newTwo" src="https://cretmark.in/img_cretmark/Frame%204.svg"
+                            alt="alternative">
+
+                             
+                        <!-- <img class="img-fluid" src="images/header-smartphone.png" alt="alternative"> -->
+                    </div> <!-- end of image-container -->
+                </div> <!-- end of col -->
                 <div class="col-lg-6">
                     <div class="text-container">
                         <h1 id="intro" class="h1-large">Unlock your <span> Business</span> Version <span> 2.0</span>
@@ -185,15 +195,7 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
 
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
-                <div class="col-lg-6">
-                    <div class="image-container">
-                        <img data-aos="fade-left" class="img-fluid" src="https://cretmark.in/img_cretmark/Frame%204.svg"
-                            alt="alternative">
-
-                             
-                        <!-- <img class="img-fluid" src="images/header-smartphone.png" alt="alternative"> -->
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
+               
             </div> <!-- end of row -->
         </div> <!-- end of container -->
     </header> <!-- end of header -->
