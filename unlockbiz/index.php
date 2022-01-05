@@ -158,7 +158,7 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
             <div class="row">
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h1 id="intro" class="h1-large">Unlock your <span> Business</span> Version <span> 1.0</span>
+                        <h1 id="intro" class="h1-large">Unlock your <span> Business</span> Version <span> 2.0</span>
                         </h1>
                         <p class="p-large">CretMark offers a <span
                                 style="color: #B72851; font-size: 30px; font-weight: bold;"> FLAT 50%
