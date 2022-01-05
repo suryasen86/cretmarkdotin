@@ -1745,6 +1745,8 @@ margin-top: 5px;
   .lanh{
 	margin-top: 40px;
 }
+
+
   @media (max-width: 400px) {
  
 	  .counter #counter .cell {
@@ -1780,3 +1782,6 @@ margin-top: 5px;
 	 color: black;
 	 font-weight: 700;
  }
+
+
+ 

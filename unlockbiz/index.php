@@ -172,7 +172,7 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
 
                         <div class="lanh">
 
-                            <h3>Offer valid till 10 October 1pm </h3>
+                            <h3>Offer valid till 1 February  </h3>
                             <a class="btn-solid-lg lanbtn" href="#pricing"> Get Started</a>
 
                         </div>
@@ -189,6 +189,8 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
                     <div class="image-container">
                         <img data-aos="fade-left" class="img-fluid" src="https://cretmark.in/img_cretmark/Frame%204.svg"
                             alt="alternative">
+
+                             
                         <!-- <img class="img-fluid" src="images/header-smartphone.png" alt="alternative"> -->
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
@@ -234,7 +236,7 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
                     <div data-aos="flip-left" class="card">
                         <div class="card-body">
                             <div class="card-title">Company Website Package</div>
-                            <div class="price"><span class="currency"></span><span class="value"> 
+                            <div class="price"> INR<del>25000</del> <span class="currency"> INR 12500</span><span class="value"> 
                                 </span> <br> <span class="currency" style="color:green; font-size:50px">50% OFF</span></div>
                             <div class="frequency">   
                             </div>
@@ -242,11 +244,11 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
                             <ul class="list-unstyled li-space-lg">
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
-                                    <div class="media-body">Upto 7 Pages Dynamic Website</div>
+                                    <div class="media-body">Upto 5 Pages Dynamic Website</div>
                                 </li>
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
-                                    <div class="media-body"> UI/UX Design</div>
+                                    <div class="media-body"> Premium  Design</div>
                                 </li>
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
@@ -260,16 +262,16 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
 
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
-                                    <div class="media-body"> SEO (Search engine optimization
+                                    <div class="media-body"> Basic SEO (Search engine optimization
                                         )</div>
                                 </li>
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
-                                    <div class="media-body"> social media Management</div>
+                                    <div class="media-body"> Social Media Management</div>
                                 </li>
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
-                                    <div class="media-body"> 8 Post For Facebook and Instagram</div>
+                                    <div class="media-body"> Social Media Setup For Facebook and Instagram</div>
                                 </li>
                                 <br><br>
 
@@ -286,18 +288,19 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
                         <div class="card-body">
                             <div class="card-title">E-commerce Website Package
                             </div>
-                            <div class="price"><span class="currency"></span><span class="value"> </span> <br> <span class="currency" style="color:green; font-size:50px">50% OFF</span> </div>
+                            <div class="price"> INR<del>50000</del> <span class="currency"> INR 25000</span><span class="value"> 
+                            </span> <br> <span class="currency" style="color:green; font-size:50px">50% OFF</span></div>
                             <div class="frequency"> 
                             </div>
                             <!-- <p>This is a more advanced package suited for medium companies</p> -->
                             <ul class="list-unstyled li-space-lg">
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
-                                    <div class="media-body">Upto 12 Pages Dynamic Website</div>
+                                    <div class="media-body">Upto 8 Pages Dynamic Website</div>
                                 </li>
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
-                                    <div class="media-body">UI/UX Design </div>
+                                    <div class="media-body">Premium  Design </div>
                                 </li>
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
@@ -320,16 +323,16 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
                                 <p class="digital"> Digital Marketing Package</p>
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
-                                    <div class="media-body"> SEO (Search engine optimization
+                                    <div class="media-body"> Basic SEO (Search engine optimization
                                         )</div>
                                 </li>
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
-                                    <div class="media-body"> social media Management</div>
+                                    <div class="media-body"> Social Media Management</div>
                                 </li>
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i>
-                                    <div class="media-body"> 12 Post For Facebook and Instagram</div>
+                                    <div class="media-body"> Social Media Setup For Facebook and Instagram</div>
                                 </li>
                             </ul>
                             <div class="button-wrapper">
