@@ -761,7 +761,7 @@ if (isset($_POST['con-input'])) {
 
     $message = $_POST["message"];
 
-    $to = "sales@cretmark.com";
+    $to = "unlockbiz@cretmark.com";
     $subject = "Mail From contact from";
     $subject2="Thanks for Contacting Cretmark !";
     $txt = "Name = " . $name . "\r\n  Email = " . $email . "\r\n Number =" . $num . "\r\n Message =" . $message;
@@ -772,9 +772,9 @@ if (isset($_POST['con-input'])) {
     
     Cheers!
     ";
-    $headers = "From: info@cretmark.com" . "\r\n" .
+    $headers = "From: no-reply@cretmark.com" . "\r\n" .
         "CC: lasth324@gmail.com";
-        $headers2 = "From: info@cretmark.com" . "\r\n" .
+        $headers2 = "From: no-reply@cretmark.com" . "\r\n" .
         "CC: ";
 
 
