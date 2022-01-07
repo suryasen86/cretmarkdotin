@@ -31,9 +31,13 @@
     <link href="css/magnific-popup.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
     <!-- Favicon  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="icon" href="https://cretmark.in/logo/Cret_Mark_NT (1).png">
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
    <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
@@ -216,6 +220,160 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
 
 
 
+<!-- crousal  -->
+<div class="crorusalNew">
+<div class="onetechnology">
+    <h2>Frontend Technologies</h2>
+    <div class="slider">
+       <div class="slide-track">
+  
+        <div class="slide">
+            <img src="./images/stack/bootstrap-4.svg" height="100" width="100" alt="" />
+        </div>
+            
+        
+        <div class="slide">
+            <img src="./images/stack/css3.svg" height="100" width="100" alt="" />
+        </div>
+        
+        <div class="slide">
+            <img src="./images/stack/javascript.svg" height="100" width="100" alt="" />
+        </div>
+        <div class="slide">
+            <img src="./images/stack/react-js.svg" height="100" width="100" alt="" />
+        </div>
+
+        <div class="slide">
+            <img src="./images/stack/sass.svg" height="100" width="100" alt="" />
+        </div>
+        <div class="slide">
+            <img src="./images/stack/ts.png" height="100" width="100" alt="" />
+        </div>
+        <div class="slide">
+            <img src="./images/stack/tailwind.svg" height="100" width="100" alt="" />
+        </div>
+ 
+    </div>
+
+       </div>
+    
+</div>
+
+<div class="onetechnology">
+    <h2>Backend  Technologies</h2>
+    <div class="slider">
+       <div class="slide-track">
+  
+        <div class="slide">
+            <img src="./images/stack/python.svg" height="100" width="100" alt="" />
+        </div>
+        <div class="slide">
+            <img src="./images/stack/node.svg" height="100" width="100" alt="" />
+        </div>
+        <div class="slide">
+            <img src="./images/stack/WooCommerce_logo.svg.png" height="100" width="100" alt="" />
+        </div>
+        <div class="slide">
+            <img src="./images/stack/WordPress-logotype-wmark.png" height="100" width="100" alt="" />
+        </div>
+        <div class="slide">
+            <img src="./images/stack/download.png" height="100" width="100" alt="" />
+        </div>
+              </div>
+
+       </div>
+    
+</div>
+
+<div class="onetechnology">
+    <h2>Hosting & DevOps</h2>
+    <div class="slider">
+       <div class="slide-track">
+  
+        <div class="slide">
+            <img src="./images/stack/github.svg" height="100" width="100" alt="" />
+        </div>
+        <div class="slide">
+            <img src="./images/stack/digitalocean.svg" height="100" width="100" alt="" />
+        </div>
+        <div class="slide">
+            <img src="./images/stack/firebase.svg" height="100" width="100" alt="" />
+        </div>
+ 
+        <div class="slide">
+            <img src="./images/stack/google-cloud.svg" height="100" width="100" alt="" />
+        </div>
+        <div class="slide">
+            <img src="./images/stack/storyblok.svg" height="100" width="100" alt="" />
+        </div>
+        <div class="slide">
+            <img src="./images/stack/moby-logo.png" height="100" width="100" alt="" />
+        </div>
+ 
+ 
+              </div>
+
+       </div>
+   </div>
+ 
+</div>
+
+<!-- crousal  end -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <!-- Pricing -->
     <div data-aos="zoom-in" id="pricing" class="cards-2">
         <div class="decoration-bg"></div>
@@ -231,7 +389,10 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
 
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
+
+
             <div class="row">
+
                 <div class="col-lg-12">
 
                     <!-- Card-->
@@ -724,14 +885,20 @@ src="https://www.facebook.com/tr?id=257033929343495&ev=PageView&noscript=1"
     <div class="copyright">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-4">
                     <ul class="list-unstyled li-space-lg p-small">
                         <li><a href="https://cretmark.in/blog-list-two.php">Blogs</a></li>
                         <li><a href="https://cretmark.in/service.php">Services</a></li>
 
                     </ul>
                 </div> <!-- end of col -->
-                <div class="col-lg-6">
+                <div class="col-lg-4">
+                    <ul>
+                        <li>(+91) 913 619 3111</li>
+                        <li>info@cretmark.com</li>
+                    </ul>
+                </div>
+                <div class="col-lg-4">
                     <p class="p-small statement">Copyright © <a href="https://cretmark.in/">CRETMARK</a></p>
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
